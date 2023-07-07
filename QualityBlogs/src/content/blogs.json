@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "title": "Vite: The Fast, Simple, and Efficient Build Tool for Web Developers",
+            "description": "If you're a developer who's looking for a faster, simpler and more efficient way to build web applications, then Vite might be just what you need. In this blog post, we'll learn to use Vite, and how it can help you build your web applications more qu...",
+            "blog_image": "https://camo.githubusercontent.com/24c01864b202e3a8a283c7632abc3e1dce23ccd318ae729dcedac5bcc154f224/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313637373431303832313631372f34343137376332362d383031302d346365652d383030612d3436363339306338366438332e706e67",
+            "author": {
+                "name": "Samyabrata Maji",
+                "username": "sammaji15",
+                "profile_image": "https://avatars.githubusercontent.com/u/116789799?v=4"
+            }
+        },
+        {
+            "title": "Introduction to Tailwind",
+            "description": "Are you tired of writing CSS from scratch and spending hours tinkering with styles? Do you want to speed up your web development process without sacrificing customization? Look no further than Tailwind, the utility-first CSS framework that streamline...",
+            "blog_image": "https://camo.githubusercontent.com/d21d91c715baabdd8c5c0ed9c875404a76bda56245118b991af4d1cf3bd8a1b7/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313637363634343836303232302f64363136613362662d313564362d346338362d383961352d3830336238353738313034632e706e67",
+            "author": {
+                "name": "Samyabrata Maji",
+                "username": "sammaji15",
+                "profile_image": "https://avatars.githubusercontent.com/u/116789799?v=4"
+            }
+        },
+        {
+            "title": "A Short Introduction to React",
+            "description": "React is a JavaScript library for building user interfaces. It is developed and maintained by Facebook, and is widely used for building single-page applications and mobile apps. React allows developers to build reusable UI components, manage the stat...",
+            "blog_image": "https://camo.githubusercontent.com/6055dccfd87bfb3764770f87abd84d5627efd38eb2604ba8a057d18a9da62256/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313637363237383930333339382f32353937663538612d663634342d343064652d393164392d3531653332303365343032342e706e67",
+            "author": {
+                "name": "Samyabrata Maji",
+                "username": "sammaji15",
+                "profile_image": "https://avatars.githubusercontent.com/u/116789799?v=4"
+            }
+        }
+    ]
+}
