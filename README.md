@@ -1,1 +1,1 @@
-# BlogHub
+# Quality BLogs
